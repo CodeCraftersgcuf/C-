@@ -27,7 +27,7 @@ namespace Calculator
             txtResult.Text += btn.Text;
         }
 
-        // Operation (+, -) Button Click
+        // Operation (+, -, *, /) Button Click
         private void btnOperation_Click(object sender, EventArgs e)
         {
             Button btn = (Button)sender;
@@ -58,6 +58,19 @@ namespace Calculator
                     break;
                 case "-":
                     txtResult.Text = (_currentValue - secondValue).ToString();
+                    break;
+                case "*":
+                    txtResult.Text = (_currentValue * secondValue).ToString();
+                    break;
+                case "/":
+                    if (secondValue != 0)
+                    {
+                        txtResult.Text = (_currentValue / secondValue).ToString();
+                    }
+                    else
+                    {
+                        txtResult.Text = "Cannot divide by 0";
+                    }
                     break;
             }
 

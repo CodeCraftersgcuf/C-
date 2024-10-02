@@ -1,0 +1,4 @@
+C:\Users\abuba\source\repos\HelloMessageService\HelloMessageService\obj\Debug\HelloMessageService.csproj.AssemblyReference.cache
+C:\Users\abuba\source\repos\HelloMessageService\HelloMessageService\obj\Debug\HelloMessageService.ProjectInstaller.resources
+C:\Users\abuba\source\repos\HelloMessageService\HelloMessageService\obj\Debug\HelloMessageService.csproj.GenerateResource.cache
+C:\Users\abuba\source\repos\HelloMessageService\HelloMessageService\obj\Debug\HelloMessageService.csproj.CoreCompileInputs.cache

@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\Users\abuba\source\repos\HelloMessage\HelloMessage\bin\Debug\HelloMessage.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\abuba\source\repos\HelloMessage\HelloMessage\bin\Debug\HelloMessage.InstallLog
+   assemblypath = C:\Users\abuba\source\repos\HelloMessage\HelloMessage\bin\Debug\HelloMessage.exe
+Installing service HelloMessageService...
+Service HelloMessageService has been successfully installed.
+Creating EventLog source HelloMessageService in log Application...
+Committing assembly 'C:\Users\abuba\source\repos\HelloMessage\HelloMessage\bin\Debug\HelloMessage.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\abuba\source\repos\HelloMessage\HelloMessage\bin\Debug\HelloMessage.InstallLog
+   assemblypath = C:\Users\abuba\source\repos\HelloMessage\HelloMessage\bin\Debug\HelloMessage.exe

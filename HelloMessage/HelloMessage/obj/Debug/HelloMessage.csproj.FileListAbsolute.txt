@@ -1,0 +1,9 @@
+C:\Users\abuba\source\repos\HelloMessage\HelloMessage\bin\Debug\HelloMessage.exe.config
+C:\Users\abuba\source\repos\HelloMessage\HelloMessage\bin\Debug\HelloMessage.exe
+C:\Users\abuba\source\repos\HelloMessage\HelloMessage\bin\Debug\HelloMessage.pdb
+C:\Users\abuba\source\repos\HelloMessage\HelloMessage\obj\Debug\HelloMessage.csproj.AssemblyReference.cache
+C:\Users\abuba\source\repos\HelloMessage\HelloMessage\obj\Debug\HelloMessage.ProjectInstaller.resources
+C:\Users\abuba\source\repos\HelloMessage\HelloMessage\obj\Debug\HelloMessage.csproj.GenerateResource.cache
+C:\Users\abuba\source\repos\HelloMessage\HelloMessage\obj\Debug\HelloMessage.csproj.CoreCompileInputs.cache
+C:\Users\abuba\source\repos\HelloMessage\HelloMessage\obj\Debug\HelloMessage.exe
+C:\Users\abuba\source\repos\HelloMessage\HelloMessage\obj\Debug\HelloMessage.pdb

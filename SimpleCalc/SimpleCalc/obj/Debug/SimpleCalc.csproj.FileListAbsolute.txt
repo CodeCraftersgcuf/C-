@@ -1,0 +1,6 @@
+C:\Users\abuba\source\repos\SimpleCalc\SimpleCalc\bin\Debug\SimpleCalc.dll
+C:\Users\abuba\source\repos\SimpleCalc\SimpleCalc\bin\Debug\SimpleCalc.pdb
+C:\Users\abuba\source\repos\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.csproj.AssemblyReference.cache
+C:\Users\abuba\source\repos\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.csproj.CoreCompileInputs.cache
+C:\Users\abuba\source\repos\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.dll
+C:\Users\abuba\source\repos\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.pdb

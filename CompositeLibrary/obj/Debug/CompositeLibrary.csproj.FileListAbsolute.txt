@@ -1,0 +1,8 @@
+C:\Users\Tasnim Rajput\source\repos\ASSIGNMENT SOLUTION\CompositeLibrary\obj\Debug\CompositeLibrary.csproj.AssemblyReference.cache
+C:\Users\Tasnim Rajput\source\repos\ASSIGNMENT SOLUTION\CompositeLibrary\obj\Debug\CompositeLibrary.GroupedControl.resources
+C:\Users\Tasnim Rajput\source\repos\ASSIGNMENT SOLUTION\CompositeLibrary\obj\Debug\CompositeLibrary.csproj.GenerateResource.cache
+C:\Users\Tasnim Rajput\source\repos\ASSIGNMENT SOLUTION\CompositeLibrary\obj\Debug\CompositeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Tasnim Rajput\source\repos\ASSIGNMENT SOLUTION\CompositeLibrary\bin\Debug\CompositeLibrary.dll
+C:\Users\Tasnim Rajput\source\repos\ASSIGNMENT SOLUTION\CompositeLibrary\bin\Debug\CompositeLibrary.pdb
+C:\Users\Tasnim Rajput\source\repos\ASSIGNMENT SOLUTION\CompositeLibrary\obj\Debug\CompositeLibrary.dll
+C:\Users\Tasnim Rajput\source\repos\ASSIGNMENT SOLUTION\CompositeLibrary\obj\Debug\CompositeLibrary.pdb

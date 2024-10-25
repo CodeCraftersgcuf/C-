@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abuba\\Downloads\\ASSIGNMENT SOLUTION\\CUserLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4136BC9-B63F-42C0-A1E4-42DFC6880100}|UserLibrary.csproj|C:\\Users\\abuba\\Downloads\\ASSIGNMENT SOLUTION\\CUserLibrary\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4136BC9-B63F-42C0-A1E4-42DFC6880100}|UserLibrary.csproj|solutionrelative:usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4136BC9-B63F-42C0-A1E4-42DFC6880100}|UserLibrary.csproj|c:\\users\\abuba\\downloads\\assignment solution\\cuserlibrary\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4136BC9-B63F-42C0-A1E4-42DFC6880100}|UserLibrary.csproj|solutionrelative:usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserControl1.cs",
+              "DocumentMoniker": "C:\\Users\\abuba\\Downloads\\ASSIGNMENT SOLUTION\\CUserLibrary\\UserControl1.cs",
+              "RelativeDocumentMoniker": "UserControl1.cs",
+              "ToolTip": "C:\\Users\\abuba\\Downloads\\ASSIGNMENT SOLUTION\\CUserLibrary\\UserControl1.cs",
+              "RelativeToolTip": "UserControl1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T20:47:24.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserControl1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abuba\\Downloads\\ASSIGNMENT SOLUTION\\CUserLibrary\\UserControl1.cs",
+              "RelativeDocumentMoniker": "UserControl1.cs",
+              "ToolTip": "C:\\Users\\abuba\\Downloads\\ASSIGNMENT SOLUTION\\CUserLibrary\\UserControl1.cs [Design]",
+              "RelativeToolTip": "UserControl1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T20:46:06.087Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+C:\Users\abuba\source\repos\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+C:\Users\abuba\source\repos\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+C:\Users\abuba\source\repos\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+C:\Users\abuba\source\repos\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.AssemblyReference.cache
+C:\Users\abuba\source\repos\SimpleCalculator\SimpleCalculator\obj\Debug\MainWindow.baml
+C:\Users\abuba\source\repos\SimpleCalculator\SimpleCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\abuba\source\repos\SimpleCalculator\SimpleCalculator\obj\Debug\App.g.cs
+C:\Users\abuba\source\repos\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator_MarkupCompile.cache
+C:\Users\abuba\source\repos\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.g.resources
+C:\Users\abuba\source\repos\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.Properties.Resources.resources
+C:\Users\abuba\source\repos\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.GenerateResource.cache
+C:\Users\abuba\source\repos\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\abuba\source\repos\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+C:\Users\abuba\source\repos\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
+C:\Users\abuba\Downloads\ASSIGNMENT SOLUTION\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+C:\Users\abuba\Downloads\ASSIGNMENT SOLUTION\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+C:\Users\abuba\Downloads\ASSIGNMENT SOLUTION\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+C:\Users\abuba\Downloads\ASSIGNMENT SOLUTION\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.AssemblyReference.cache
+C:\Users\abuba\Downloads\ASSIGNMENT SOLUTION\SimpleCalculator\SimpleCalculator\obj\Debug\MainWindow.baml
+C:\Users\abuba\Downloads\ASSIGNMENT SOLUTION\SimpleCalculator\SimpleCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\abuba\Downloads\ASSIGNMENT SOLUTION\SimpleCalculator\SimpleCalculator\obj\Debug\App.g.cs
+C:\Users\abuba\Downloads\ASSIGNMENT SOLUTION\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator_MarkupCompile.cache
+C:\Users\abuba\Downloads\ASSIGNMENT SOLUTION\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.g.resources
+C:\Users\abuba\Downloads\ASSIGNMENT SOLUTION\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.Properties.Resources.resources
+C:\Users\abuba\Downloads\ASSIGNMENT SOLUTION\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.GenerateResource.cache
+C:\Users\abuba\Downloads\ASSIGNMENT SOLUTION\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\abuba\Downloads\ASSIGNMENT SOLUTION\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+C:\Users\abuba\Downloads\ASSIGNMENT SOLUTION\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb

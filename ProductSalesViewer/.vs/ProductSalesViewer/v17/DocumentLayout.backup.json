@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abuba\\source\\repos\\ProductSalesViewer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9830B79-B92D-4D09-A32E-40D0EE83E46D}|ProductSalesViewer\\ProductSalesViewer.csproj|c:\\users\\abuba\\source\\repos\\productsalesviewer\\productsalesviewer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9830B79-B92D-4D09-A32E-40D0EE83E46D}|ProductSalesViewer\\ProductSalesViewer.csproj|solutionrelative:productsalesviewer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9830B79-B92D-4D09-A32E-40D0EE83E46D}|ProductSalesViewer\\ProductSalesViewer.csproj|c:\\users\\abuba\\source\\repos\\productsalesviewer\\productsalesviewer\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9830B79-B92D-4D09-A32E-40D0EE83E46D}|ProductSalesViewer\\ProductSalesViewer.csproj|solutionrelative:productsalesviewer\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9830B79-B92D-4D09-A32E-40D0EE83E46D}|ProductSalesViewer\\ProductSalesViewer.csproj|c:\\users\\abuba\\source\\repos\\productsalesviewer\\productsalesviewer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A9830B79-B92D-4D09-A32E-40D0EE83E46D}|ProductSalesViewer\\ProductSalesViewer.csproj|solutionrelative:productsalesviewer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\abuba\\source\\repos\\ProductSalesViewer\\ProductSalesViewer\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ProductSalesViewer\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\abuba\\source\\repos\\ProductSalesViewer\\ProductSalesViewer\\Form1.Designer.cs",
+              "RelativeToolTip": "ProductSalesViewer\\Form1.Designer.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAiwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T09:47:19.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\abuba\\source\\repos\\ProductSalesViewer\\ProductSalesViewer\\Form1.cs",
+              "RelativeDocumentMoniker": "ProductSalesViewer\\Form1.cs",
+              "ToolTip": "C:\\Users\\abuba\\source\\repos\\ProductSalesViewer\\ProductSalesViewer\\Form1.cs",
+              "RelativeToolTip": "ProductSalesViewer\\Form1.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAmwCYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T09:47:15.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abuba\\source\\repos\\ProductSalesViewer\\ProductSalesViewer\\Form1.cs",
+              "RelativeDocumentMoniker": "ProductSalesViewer\\Form1.cs",
+              "ToolTip": "C:\\Users\\abuba\\source\\repos\\ProductSalesViewer\\ProductSalesViewer\\Form1.cs [Design]",
+              "RelativeToolTip": "ProductSalesViewer\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T09:47:10.954Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

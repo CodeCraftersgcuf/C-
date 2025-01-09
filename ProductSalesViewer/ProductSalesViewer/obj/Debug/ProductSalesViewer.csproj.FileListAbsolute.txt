@@ -1,0 +1,9 @@
+C:\Users\abuba\source\repos\ProductSalesViewer\ProductSalesViewer\bin\Debug\ProductSalesViewer.exe.config
+C:\Users\abuba\source\repos\ProductSalesViewer\ProductSalesViewer\bin\Debug\ProductSalesViewer.exe
+C:\Users\abuba\source\repos\ProductSalesViewer\ProductSalesViewer\bin\Debug\ProductSalesViewer.pdb
+C:\Users\abuba\source\repos\ProductSalesViewer\ProductSalesViewer\obj\Debug\ProductSalesViewer.csproj.AssemblyReference.cache
+C:\Users\abuba\source\repos\ProductSalesViewer\ProductSalesViewer\obj\Debug\ProductSalesViewer.Properties.Resources.resources
+C:\Users\abuba\source\repos\ProductSalesViewer\ProductSalesViewer\obj\Debug\ProductSalesViewer.csproj.GenerateResource.cache
+C:\Users\abuba\source\repos\ProductSalesViewer\ProductSalesViewer\obj\Debug\ProductSalesViewer.csproj.CoreCompileInputs.cache
+C:\Users\abuba\source\repos\ProductSalesViewer\ProductSalesViewer\obj\Debug\ProductSalesViewer.exe
+C:\Users\abuba\source\repos\ProductSalesViewer\ProductSalesViewer\obj\Debug\ProductSalesViewer.pdb
